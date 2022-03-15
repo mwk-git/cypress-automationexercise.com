@@ -1,0 +1,8 @@
+{
+  "contactUsMessage": {
+    "name": "Test User",
+    "email": "test-user@test.com.pl",
+    "subject": "Test Message Subject",
+    "messageContent": "Hello. I'm testing your website"
+  }
+}

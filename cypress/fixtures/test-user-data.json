@@ -1,0 +1,26 @@
+{
+  "alreadyRegisteredUser": {
+    "name": "TestObject No 27",
+    "email": "RegisteredTestUser2@Test.com.pl",
+    "password": "SecretPassword!"
+  },
+
+  "newUserRegistrationData": {
+    "name": "TestUser",
+    "email": "TestUser@Test.com.pl",
+    "password": "Test123!",
+    "firstName": "Testeusz",
+    "lastName": "Tescinski",
+    "address": "Wyoming Avenue",
+    "country": "United States",
+    "state": "Washington",
+    "city": "Wyoming Avenue",
+    "zipcode": "2301",
+    "mobileNumber": "111111111"
+  },
+
+  "nonExistingUser": {
+    "email": "noSuchUser@Test.com.pl",
+    "password": "PublicPassword!"
+  }
+}
